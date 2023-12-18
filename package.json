@@ -1,0 +1,19 @@
+{
+  "name": "testing-mergify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardCPoint/testing-mergify.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/RichardCPoint/testing-mergify/issues"
+  },
+  "homepage": "https://github.com/RichardCPoint/testing-mergify#readme"
+}
